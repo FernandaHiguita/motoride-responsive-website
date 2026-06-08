@@ -1,5 +1,7 @@
 # 🏍️ MotoRide Landing Page
 
+[![Website](https://img.shields.io/badge/Website-Online-brightgreen?style=for-the-badge)](https://fernandahiguita.github.io/motoride-responsive-website/)
+
 A modern and responsive motorcycle showcase website built with **HTML5** and **CSS3**. This project highlights motorcycle models, services, articles, and contact information while demonstrating responsive web design principles and clean frontend development practices.
 
 ## 📸 Preview
