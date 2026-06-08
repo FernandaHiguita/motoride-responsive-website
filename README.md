@@ -1,79 +1,79 @@
-MotoRide Website 
+# 🏍️ MotoRide Landing Page
 
-This is a website built as a final module assessment it showcases information about MotoRide, models, and a mini section of contact, with modern CSS layout techniques such as Flexbox and CSS Grid.
+A modern and responsive motorcycle showcase website built with **HTML5** and **CSS3**. This project highlights motorcycle models, services, articles, and contact information while demonstrating responsive web design principles and clean frontend development practices.
 
-The main goal of this project is to demonstrate a solid understanding of responsive web design, layout composition, and clean structure using HTML and CSS only.
+## 📸 Preview
 
-Features 
+![MotoRide Preview](./assets/img/hero-image.jpeg)
 
--Built with HTML5 and CSS3
--Layout created using CSS Grid and Flexbox
--Clean and semantic HTML structure
--No frameworks or external libraries
+---
 
-Layout structure 
+## 🚀 Features
 
-The website is divided into the following sections:
+* Responsive design for different screen sizes
+* Modern and clean user interface
+* Semantic HTML5 structure
+* CSS Grid and Flexbox layouts
+* Featured motorcycle models section
+* Services and articles sections
+* Contact form
+* Organized project structure
 
--Navegation 
--Hero section 
--Models section 
--services section 
--Ultimate articles section 
--Contact 
--Footer 
+---
 
-Layout Techniques Used
+## 🛠️ Technologies Used
 
-CSS Grid
+* HTML5
+* CSS3
+* CSS Grid
+* Flexbox
+* Google Fonts
 
--CSS Grid is used for main layout structures, where two-dimensional control is required: 
--Hero section (text + image) 
--Models section (3 cards, image + text + button)
--services section and ultimate articles section (2 card per section, image + text + image)
--Contact section(2 colums, one with text and other with a form)
--fotter (text)
+---
 
-Example use cases: 
+## 📂 Project Structure
 
--Creating responsive columns 
--Automatically adapting the number of columns based on screen size 
--Structuring sections without fixed widths
+```text
+motoride-landing-page/
+│
+├── index.html
+├── README.md
+│
+├── css/
+│   └── style.css
+│
+└── assets/
+    ├── img/
+    └── svg/
+```
 
-Flexbox
+## 📚 What I Practiced
 
-Flexbox is used for one dimensional layouts and internal alignment:
+Through this project I strengthened my knowledge in:
 
--Navigation bar alignment 
--Vertical alignment inside cards 
--Button positioning 
--Content spacing inside sections 
--Flexbox helps keep elements aligned and spaced correctly without relying on margins or fixed positioning.
+* Semantic HTML structure
+* Responsive web design
+* Layout design with CSS Grid
+* Component alignment using Flexbox
+* Visual hierarchy and spacing
+* Frontend project organization
 
-Project Structure
+---
 
-prueba_desempeno/ │ ├── index.html 
-                   ├── README.md 
-                   ├── css/ 
-                   │ └── styles.css 
-                   └── assets/ 
-                     └── images/ 
-                     └── svg/
+## 🎯 Learning Objective
 
-All styles are contained in a single CSS file for simplicity and clarity.
+The goal of this project was to practice modern frontend development concepts while creating a responsive landing page without using external frameworks or libraries.
 
-Through this project, I practiced and reinforced:
+---
 
--Semantic HTML structure 
--Responsive layouts with CSS Grid and Flexbox  
--Visual composition and spacing 
--Clean and maintainable CSS organization
+## 👩‍💻 Author
 
-Author
+**Fernanda Higuita**
 
-Fernanda
-Web Development Student
-Building modern and responsive web interfaces
+Software Development Student
+
+Interested in Data Analytics, Data Engineering, and Web Development.
+
 
 
 
