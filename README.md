@@ -6,7 +6,7 @@ A modern and responsive motorcycle showcase website built with **HTML5** and **C
 
 ## 📸 Preview
 
-![MotoRide Preview](./assets/img/hero-image.jpeg)
+![MotoRide Preview](./assets/img/review.png)
 
 ---
 
